@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Emotional Analysis project.**
 
-- 🌱 I’m currently learning **Django,Machine Learning and Frontend Development.**
+- 🌱 I’m currently learning **Django,Machine Learning and Full Stack Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
