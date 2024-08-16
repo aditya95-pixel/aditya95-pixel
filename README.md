@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya95-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="aditya95-pixel" /> </p>
 
-- 🔭 I’m currently working on **Emotional Analysis project.**
+- 🔭 I’m currently working on **RAG LLMs**
 
 - 🌱 I’m currently learning **Django and Full Stack Development.**
 
