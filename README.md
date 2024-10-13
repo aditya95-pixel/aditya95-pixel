@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RAG LLMs**
 
-- 🌱 I’m currently learning **Django and Full Stack Development.**
+- 🌱 I’m currently learning **Full Stack Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
