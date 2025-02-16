@@ -12,7 +12,7 @@
 <a href="https://codeforces.com/profile/aditya1695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya1695" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityamazumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityamazumdar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sphsrn07/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sphsrn07/profile" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/aditya1695" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fatcoder.jp%2F&psig=AOvVaw2FAtx15FKGK6qQUlbdGENL&ust=1739789436239000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjWr-yCyIsDFQAAAAAdAAAAABAE" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/aditya1695" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
